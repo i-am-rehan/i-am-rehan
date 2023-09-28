@@ -31,7 +31,7 @@ Explore my portfolio website: [TheRehanDev](https://therehandev.com/) 🔗
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rehan-ahmad-9551b21ab/) 📱
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp)](https://wa.me/your_whatsapp_number) 📞
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp)](https://wa.me/923134771723) 📞
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:contact@therehandev.com) ✉️
 
 Thank you for visiting! 🚀
